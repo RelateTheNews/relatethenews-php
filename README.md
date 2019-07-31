@@ -10,3 +10,6 @@ news sentiment data as a service (DaaS) API.
 
 ## Requirements
 PHP 5.6 and later.
+
+### Warranty
+This library is provided as is with no warranty provided.
